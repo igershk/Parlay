@@ -1,6 +1,6 @@
 # Parlay
 
-## The main files are code and summary document for a predictive model showing College Football spread/total correlation.
+## The main files are code and a summary document for a predictive model showing College Football spread/total correlation.
 
 # Halftime Sub Folder 
 
